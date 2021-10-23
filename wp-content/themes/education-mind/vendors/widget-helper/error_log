@@ -1,0 +1,48 @@
+[02-Jan-2021 13:43:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php on line 17
+[02-Jan-2021 13:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php on line 9
+[02-Jan-2021 13:43:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php on line 17
+[02-Jan-2021 13:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php on line 9
+[02-Jan-2021 13:43:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php on line 17
+[02-Jan-2021 13:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php on line 9
+[02-Jan-2021 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php on line 17
+[02-Jan-2021 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php on line 9
+[02-Jan-2021 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php on line 17
+[02-Jan-2021 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php on line 9
+[02-Jan-2021 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/class-widget-helper.php on line 17
+[02-Jan-2021 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-content/themes/education-mind/vendors/widget-helper/widget-helper.php on line 9

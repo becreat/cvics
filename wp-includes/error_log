@@ -1,0 +1,52 @@
+[05-Nov-2020 13:27:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/cvics/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/session.php on line 9
+[02-Jan-2021 13:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:44:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:44:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9
+[02-Jan-2021 13:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/cvics/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns.php on line 9

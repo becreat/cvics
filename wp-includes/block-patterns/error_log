@@ -1,0 +1,432 @@
+[02-Jan-2021 13:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/large-header.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/quote.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-images.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[02-Jan-2021 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/block-patterns/two-buttons.php on line 9

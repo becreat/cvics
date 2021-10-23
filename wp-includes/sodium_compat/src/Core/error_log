@@ -1,0 +1,268 @@
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[02-Jan-2021 13:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[02-Jan-2021 13:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[02-Jan-2021 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[02-Jan-2021 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[02-Jan-2021 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cvics/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
