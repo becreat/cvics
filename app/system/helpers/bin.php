@@ -102,6 +102,7 @@ function _raid($l = '6')
 
 }
 
+
 $req = _get('ng');
 $routes = explode('/', $req);
 $handler = $routes['0'];
